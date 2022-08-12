@@ -1,5 +1,5 @@
 ### OLÁ! EU SOU O CLEVERSON SIEGRIST 👋
-Desenvolvedor
+Analista de dados!
 
 <!--
 **Cleverson-Siegrist/Cleverson-Siegrist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
