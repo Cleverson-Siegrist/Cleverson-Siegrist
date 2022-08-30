@@ -1,7 +1,7 @@
 ### OLÁ! EU SOU O CLEVERSON SIEGRIST 👋
 Instagram: Cleverson_siegrist
 
-Analista de dados!
+Desenvolvedor!
 
 <!--
 **Cleverson-Siegrist/Cleverson-Siegrist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
